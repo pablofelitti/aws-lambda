@@ -1,4 +1,4 @@
-#Lambda example for AWS
+# Lambda example for AWS
 
 Run this maven command:
 
