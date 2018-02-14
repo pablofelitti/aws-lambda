@@ -1,5 +1,9 @@
 # Lambda example for AWS
 
+This is just a simple Hello World app for lambda
+
+## How to upload to AWS
+
 Run this maven command:
 
 ```
